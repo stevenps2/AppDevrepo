@@ -1,11 +1,15 @@
 # AppDevrepo
-
 My First Repository
+ 
+## My Favorite Series and Movies 
 
-## Movies
+### Movies
 
-1. **Update**
-2. **CLAbo**
+1. **Updator**
+2. **Ben10**
 
-   ##Series
-   1. **Ty**
+### Series
+1. **The Walking DEAD**
+2. **Tom and Jerry**
+
+      
